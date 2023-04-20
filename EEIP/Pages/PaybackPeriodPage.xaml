@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="EEIP.Pages.PaybackPeriodPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EEIP.Pages"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="464" >
+    <Grid Margin="10 0 0 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1.1*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <WrapPanel Margin="0 0 0 0">
+                <TextBlock Text="Рассчёт срока окупаемости" FontSize="30" Height="36" VerticalAlignment="Top"/>
+                <TextBlock Margin="2 0 0 5" Width="442" Text="Коэффициент PP (период окупаемости) показывает временной отрезок, 
+                           за который окупятся первоначальные вложения в проект (когда вернутся инвестированные деньги)." 
+                           TextWrapping="Wrap" FontSize="13" Foreground="#FF666565"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock FontSize="18" Text="Выберите период (кол-во месяцев):" Width="444"/>
+                <ComboBox  x:Name="monthComboBox" FontSize="15" SelectedIndex="2">
+                    <ComboBoxItem>
+                        <TextBlock Text="Один месяц"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Два месяца"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Три месяца"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Четыре месяца"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Пять месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Шесть месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Семь месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Восемь месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Девять месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Десять месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Одиннадцать месяцев"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock Text="Двенадцать месяцев"/>
+                    </ComboBoxItem>
+                </ComboBox>
+                <Button x:Name="onSelectMonth" Width="100" Height="28" Margin="5 0 0 0" FontSize="16" Content="Выбрать" Click="onSelectMonth_Click"/>
+            </WrapPanel>
+        </StackPanel>
+        <WrapPanel Grid.Row="1">
+            <TextBlock  FontSize="18" Margin="0 0 0 10" Text="Введите вложения в проект:" Width="299"/>
+            <TextBox Width="200" Margin="0 0 0 10" FontSize="18"/>
+            <TextBlock  FontSize="18"  Text="Введите ежемесячные поступления:"/>
+            <TextBox Width="200" Margin="0 5 170 0" FontSize="18"/>
+            <Button Click="onCalculate" Width="100" Height="28" Margin="0 10 0 0" FontSize="16" Content="Рассчитать"/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2">
+            <TextBlock FontSize="16" Text="Срок окупаемости инвестированных средств: "/>
+            <TextBlock x:Name="itogPP" FontWeight="Bold" FontSize="16" Text="12 месяцев"/>
+            <TextBlock Margin="0 5 0 0" FontSize="15" TextWrapping="Wrap" Height="59" Width="419" Foreground="#FF666565">
+                <Run Text="Данная формула позволяет быстро найти показатель срока окупаемости проекта. Что является одним из вариантов рассчёта оценки эффективности инвестиционного проекта. " FontSize="14"/></TextBlock>
+            <StackPanel Margin="15" HorizontalAlignment="Center" VerticalAlignment="Center" Width="445">
+                <Button Click="onClearPage" FontSize="16" Width="200" Height="32">Ввести новые данные</Button>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</UserControl>
