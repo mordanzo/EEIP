@@ -23,7 +23,7 @@ namespace EEIP
     {
         HomePage homePage = new HomePage();
         PaybackPeriodPage paybackPeriodPage = new PaybackPeriodPage();
-        ROIPage roiPage = new ROIPage();
+        AccountingReturnRatePage ARRPage = new AccountingReturnRatePage();
         public MainWindow()
         {
             InitializeComponent();
@@ -36,7 +36,7 @@ namespace EEIP
 
         private void onROIPage(object sender, RoutedEventArgs e)
         {
-            MainFrame.NavigationService.Navigate(roiPage);
+            MainFrame.NavigationService.Navigate(ARRPage);
         }
 
         private void onHomePage(object sender, RoutedEventArgs e)

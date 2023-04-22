@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\App.xaml
-4-530134312
+4-1054470602
 
-10-1326827860
+11-164160268
 2141122888154
-MainWindow.xaml;Pages\HomePage.xaml;Pages\PaybackPeriodPage.xaml;Pages\ROIPage.xaml;
+MainWindow.xaml;Pages\AcountingReturnRatePage.xaml;Pages\HomePage.xaml;Pages\PaybackPeriodPage.xaml;
 
-True
+False
 

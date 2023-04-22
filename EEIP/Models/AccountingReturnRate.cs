@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace EEIP.Models
 {
-    public class PaybackPeriod
+    public class AccountingReturnRate
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public int Month { get; set; }
         public double Investment { get; set; }
-        public double CashFlow { get; set; }
+        public string CashFlow { get; set; }
         public string Result { get; set; }
         public override string ToString()
         {

@@ -13,7 +13,7 @@
     <Compile Update="Pages\PaybackPeriodPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Pages\ROIPage.xaml.cs">
+    <Compile Update="Pages\AcountingReturnRatePage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -27,7 +27,7 @@
     <Page Update="Pages\PaybackPeriodPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Pages\ROIPage.xaml">
+    <Page Update="Pages\AcountingReturnRatePage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

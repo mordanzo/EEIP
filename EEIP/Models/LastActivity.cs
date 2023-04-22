@@ -7,13 +7,12 @@ using System.Threading.Tasks;
 
 namespace EEIP.Models
 {
-    public class Table
+    public class LastActivity
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public int ActivityId { get; set; }
+        public int ActivityType { get; set; }
         public override string ToString()
         {
             return $"{Id}";
