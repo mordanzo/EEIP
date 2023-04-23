@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
@@ -15,6 +16,6 @@ namespace EEIP
     {
         static string dbName = "EEIP.db";
         static string folderPath = Environment.CurrentDirectory;
-        public static string dbPath = System.IO.Path.Combine(folderPath, dbName);
+        public static string dbPath = Path.Combine(folderPath, dbName);
     }
 }

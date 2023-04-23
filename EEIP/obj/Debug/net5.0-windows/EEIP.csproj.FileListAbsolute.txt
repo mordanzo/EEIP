@@ -5,7 +5,6 @@ C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\b
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\EEIP.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\ref\EEIP.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\EEIP.pdb
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.csproj.AssemblyReference.cache
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP_MarkupCompile.cache
@@ -20,30 +19,11 @@ C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\o
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\ref\EEIP.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.pdb
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.genruntimeconfig.cache
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Humanizer.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\SQLite-net.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -130,3 +110,5 @@ C:\Users\DANILA\Desktop\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.pdb
 C:\Users\DANILA\Desktop\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.genruntimeconfig.cache
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\Pages\AcountingReturnRatePage.g.cs
 C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\Pages\AcountingReturnRatePage.baml
+C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\bin\Debug\net5.0-windows\EEIP.db
+C:\Users\DANILA\Desktop\Курсовая Вакульчук Иван\EEIP\EEIP\obj\Debug\net5.0-windows\EEIP.csproj.AssemblyReference.cache
